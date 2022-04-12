@@ -1,0 +1,1 @@
+<h3>How are you id <?php echo $id; ?></h3>
